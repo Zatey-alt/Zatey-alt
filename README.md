@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack web and mobile software engineer passionate about<br> creating innovative solutions. Experienced in both front-end<br> and back-end development, with a focus on delivering high<br>-quality, user-friendly applications. Constantly exploring new<br> technologies and methodologies to enhance project efficiency<br> and performance. Let's build something amazing together!
+"Full stack web and mobile software engineer passionate about creating innovative solutions. Experienced in both front-end and back-end development, with a focus on delivering high-quality, user-friendly applications. Constantly exploring new technologies and methodologies to enhance project efficiency and performance. Let's build something amazing together!"
 
 
 ## 🌐 Socials:
